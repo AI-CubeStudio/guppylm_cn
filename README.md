@@ -10,10 +10,10 @@
   <a href="https://hf-mirror.com/datasets/arman-bd/guppylm-60k-generic"><img src="https://img.shields.io/badge/🤗_数据集_(镜像)-guppylm--60k-blue" alt="Dataset Mirror"/></a>&nbsp;
   <a href="https://huggingface.co/arman-bd/guppylm-9M"><img src="https://img.shields.io/badge/🤗_Model-guppylm--9M-orange" alt="Model"/></a>&nbsp;
   <a href="https://hf-mirror.com/arman-bd/guppylm-9M"><img src="https://img.shields.io/badge/🤗_模型_(镜像)-guppylm--9M-orange" alt="Model Mirror"/></a>&nbsp;
-  <a href="https://github.com/arman-bd/guppylm/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green" alt="License"/></a>
+  <a href="https://github.com/AI-CubeStudio/guppylm_cn/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green" alt="License"/></a>
   <br/>
-  <a href="https://colab.research.google.com/github/arman-bd/guppylm/blob/main/train_guppylm.ipynb"><img src="https://img.shields.io/badge/Train_in-Colab-F9AB00?logo=googlecolab" alt="Train"/></a>&nbsp;
-  <a href="https://colab.research.google.com/github/arman-bd/guppylm/blob/main/use_guppylm.ipynb"><img src="https://img.shields.io/badge/Chat_in-Colab-F9AB00?logo=googlecolab" alt="Chat"/></a>
+  <a href="https://colab.research.google.com/github/AI-CubeStudio/guppylm_cn/blob/main/train_guppylm.ipynb"><img src="https://img.shields.io/badge/Train_in-Colab-F9AB00?logo=googlecolab" alt="Train"/></a>&nbsp;
+  <a href="https://colab.research.google.com/github/AI-CubeStudio/guppylm_cn/blob/main/use_guppylm.ipynb"><img src="https://img.shields.io/badge/Chat_in-Colab-F9AB00?logo=googlecolab" alt="Chat"/></a>
   <br/>
   <a href="https://www.linkedin.com/pulse/build-your-own-language-model-5-minutes-i-made-mine-hossain--supif/"><img src="https://img.shields.io/badge/Article-LinkedIn-0A66C2?logo=linkedin" alt="LinkedIn Article"/></a>&nbsp;
   <a href="https://arman-bd.medium.com/build-your-own-llm-in-5-minutes-i-made-mine-talk-like-a-fish-e20c338a3d14"><img src="https://img.shields.io/badge/Article-Medium-000000?logo=medium" alt="Medium Article"/></a>
@@ -118,13 +118,13 @@ Guppy 的特点：
 
 ### 在 Colab 里和 Guppy 聊天
 
-[![Open in Colab](https://img.shields.io/badge/Chat_in-Colab-F9AB00?logo=googlecolab)](https://colab.research.google.com/github/arman-bd/guppylm/blob/main/use_guppylm.ipynb)
+[![Open in Colab](https://img.shields.io/badge/Chat_in-Colab-F9AB00?logo=googlecolab)](https://colab.research.google.com/github/AI-CubeStudio/guppylm_cn/blob/main/use_guppylm.ipynb)
 
 从 [HuggingFace](https://huggingface.co/arman-bd/guppylm-9M)（[国内镜像 hf-mirror](https://hf-mirror.com/arman-bd/guppylm-9M)）下载预训练模型，然后直接开聊。运行全部单元格即可。
 
 ### 训练你自己的模型
 
-[![Open in Colab](https://img.shields.io/badge/Train_in-Colab-F9AB00?logo=googlecolab)](https://colab.research.google.com/github/arman-bd/guppylm/blob/main/train_guppylm.ipynb)
+[![Open in Colab](https://img.shields.io/badge/Train_in-Colab-F9AB00?logo=googlecolab)](https://colab.research.google.com/github/AI-CubeStudio/guppylm_cn/blob/main/train_guppylm.ipynb)
 
 1. 将运行时设置为 **T4 GPU**
 2. **运行全部单元格** —— 下载数据集、训练分词器、训练模型、测试效果

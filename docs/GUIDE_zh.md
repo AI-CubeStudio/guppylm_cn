@@ -53,9 +53,9 @@ flowchart LR
 ### 2.1 依赖安装
 
 ```bash
-# 克隆仓库
-git clone https://github.com/arman-bd/guppylm.git
-cd guppylm
+# 克隆本仓库
+git clone https://github.com/AI-CubeStudio/guppylm_cn.git
+cd guppylm_cn
 
 # 安装核心依赖
 pip install -r requirements.txt
@@ -125,13 +125,13 @@ cd docs && python -m http.server 8080
 
 ### 路径 B：Colab 聊天
 
-1. 打开 [use_guppylm.ipynb](https://colab.research.google.com/github/arman-bd/guppylm/blob/main/use_guppylm.ipynb)
+1. 打开 [use_guppylm.ipynb](https://colab.research.google.com/github/AI-CubeStudio/guppylm_cn/blob/main/use_guppylm.ipynb)
 2. 运行全部单元格
 3. 自动从 HuggingFace 下载 `arman-bd/guppylm-9M` 并开始交互
 
 ### 路径 C：Colab 训练（推荐入门）
 
-1. 打开 [train_guppylm.ipynb](https://colab.research.google.com/github/arman-bd/guppylm/blob/main/train_guppylm.ipynb)
+1. 打开 [train_guppylm.ipynb](https://colab.research.google.com/github/AI-CubeStudio/guppylm_cn/blob/main/train_guppylm.ipynb)
 2. 运行时选择 **T4 GPU**
 3. 依次完成：下载数据集 → 训练分词器 → 训练模型 → 测试对话 →（可选）上传 HuggingFace
 

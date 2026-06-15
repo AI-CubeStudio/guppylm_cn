@@ -16,9 +16,9 @@ pipeline_tag: text-generation
 </p>
 
 <p align="center">
-  <a href="https://github.com/arman-bd/guppylm"><img src="https://img.shields.io/badge/GitHub-guppylm-181717?logo=github" alt="GitHub"/></a>&nbsp;
+  <a href="https://github.com/AI-CubeStudio/guppylm_cn"><img src="https://img.shields.io/badge/GitHub-guppylm-181717?logo=github" alt="GitHub"/></a>&nbsp;
   <a href="https://huggingface.co/datasets/arman-bd/guppylm-60k-generic"><img src="https://img.shields.io/badge/🤗_Dataset-guppylm--60k-blue" alt="Dataset"/></a>&nbsp;
-  <a href="https://colab.research.google.com/github/arman-bd/guppylm/blob/main/use_guppylm.ipynb"><img src="https://img.shields.io/badge/Open_in-Colab-F9AB00?logo=googlecolab" alt="Colab"/></a>
+  <a href="https://colab.research.google.com/github/AI-CubeStudio/guppylm_cn/blob/main/use_guppylm.ipynb"><img src="https://img.shields.io/badge/Open_in-Colab-F9AB00?logo=googlecolab" alt="Colab"/></a>
   <br/>
   <a href="https://www.linkedin.com/pulse/build-your-own-language-model-5-minutes-i-made-mine-hossain--supif/"><img src="https://img.shields.io/badge/Article-LinkedIn-0A66C2?logo=linkedin" alt="LinkedIn Article"/></a>&nbsp;
   <a href="https://arman-bd.medium.com/build-your-own-llm-in-5-minutes-i-made-mine-talk-like-a-fish-e20c338a3d14"><img src="https://img.shields.io/badge/Article-Medium-000000?logo=medium" alt="Medium Article"/></a>
@@ -90,7 +90,7 @@ print(r['choices'][0]['message']['content'])
 
 ## Links
 
-- **Repo:** [github.com/arman-bd/guppylm](https://github.com/arman-bd/guppylm)
+- **Repo:** [github.com/AI-CubeStudio/guppylm_cn](https://github.com/AI-CubeStudio/guppylm_cn)
 - **Dataset:** [huggingface.co/datasets/arman-bd/guppylm-60k-generic](https://huggingface.co/datasets/arman-bd/guppylm-60k-generic) · China mirror: [hf-mirror.com/datasets/arman-bd/guppylm-60k-generic](https://hf-mirror.com/datasets/arman-bd/guppylm-60k-generic)
 - **Model mirror:** [hf-mirror.com/arman-bd/guppylm-9M](https://hf-mirror.com/arman-bd/guppylm-9M)
 
